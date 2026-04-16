@@ -1,0 +1,30 @@
+Created By :-
+
+Name :- Koushal Mangal
+Class :- BCA 4th SEM (B1)
+Roll No :- 243501093
+
+Introduction :-
+
+This project implements a password-protected file management system using shell scripting.
+
+Objective :-
+
+To secure file operations using authentication.
+
+Tools Used :-
+
+Linux / Bash
+VS Code
+Working
+
+User must enter correct password to access system.
+Then menu-driven system performs file operations.
+
+Result :-
+
+System successfully restricts unauthorized access.
+
+Conclusion :-
+
+This project demonstrates OS security using shell scripting.
