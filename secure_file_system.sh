@@ -12,10 +12,10 @@ do
     echo ""
 
     if [ "$pass" == "$password" ]; then
-        echo "Access Granted ✅"
+        echo "Access Granted"
         break
     else
-        echo "Wrong Password ❌"
+        echo "Wrong Password"
     fi
 
     if [ $i -eq 3 ]; then
